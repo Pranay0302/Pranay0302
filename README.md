@@ -1,7 +1,7 @@
 # Hey, I'm Pranay 🙂
 
 
-<img src = "pa.jpeg" alt = "image">
+<img src = "rsz_pa.jpg" alt = "image">
 
 ## I'm a student majoring in Information Science and Engineering.
 
