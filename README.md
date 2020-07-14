@@ -23,7 +23,8 @@
 </p>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/DS89v1NqpzCqA/giphy.gif" width="250" />
+    <img src="https://media.giphy.com/media/DS89v1NqpzCqA/giphy.gif" width="150" />
+    <img src="https://media.giphy.com/media/5xaOcLGtxFpBK7mYw3C/giphy.gif" width="200" />
 </p>
 
 <p align="center">
