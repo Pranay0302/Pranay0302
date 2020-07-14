@@ -1,10 +1,11 @@
-# Hey, I'm Pranay 
+# Hey, I'm Pranay 🙂
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/gU25raLP4pUu4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/blue-screen-gU25raLP4pUu4">via GIPHY</a></p>
 
-<img src = "https://github.com/Pranay0302/Pranay0302/blob/master/rsz_pa.jpg" alt = "image">
+<p align="center">
+    <img src="https://github.com/Pranay0302/Pranay0302/blob/master/rsz_pa.jpg" alt="image">
+</p>
 
-## I'm a student majoring in information science and engineering and I'm a passionate learner 
+## I'm a student majoring in information science and engineering and I'm a passionate learner 😁
 
 ## You guys can find me in these respective areas
 
@@ -17,4 +18,14 @@
 | **Reddit** | <a href="https://www.reddit.com/user/elcoco_93"> here </a> |
 | **MAL** | <a href="https://myanimelist.net/profile/Elcoco_93"> here </a> |
 
+<p align="center">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+</p>
 
+<p align="center">
+    <img src="https://media.giphy.com/media/DS89v1NqpzCqA/giphy.gif" width="250" />
+</p>
+
+<p align="center">
+    <strong> I would love to interact with you </strong>
+</p>
