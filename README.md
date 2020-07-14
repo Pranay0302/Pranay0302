@@ -12,7 +12,7 @@
 | ------ | ------ |
 | **Linkedin** | <a href="https://www.linkedin.com/in/pranay-andra-371ab5193/"> here </a> |
 | **Quora** | <a href="https://www.quora.com/profile/Pranay-Kumar-Andra"> here </a> |
-| **Twitter** | <a href="https://twitter.com/yanarpxx"> here </a>)|
+| **Twitter** | <a href="https://twitter.com/yanarpxx"> here </a> |
 | **Reddit** | <a href="https://www.reddit.com/user/elcoco_93"> here </a> |
 | **MAL** | <a href="https://myanimelist.net/profile/Elcoco_93"> here </a> |
 
