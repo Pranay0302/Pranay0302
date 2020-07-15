@@ -1,13 +1,17 @@
-# Hey, I'm Pranay 🙂
+## Hey, I'm Pranay 🙂
 
 
 <p align="center">
     <img src="https://github.com/Pranay0302/Pranay0302/blob/master/rsz_pa.jpg" alt="image">
 </p>
 
-## I'm a student majoring in information science and engineering and I'm a passionate learner 😁
+<summary> I'm a student majoring in information science and engineering and I'm a passionate learner 😁 </summary>
 
-## You guys can find me in these respective areas
+- I'm currently learning the fundamentals of networking and it's protocols. 🖧
+- I'm also learning DSA 📚
+
+
+### You guys can find me in these respective areas
 
 
 | My Profiles | Links |
