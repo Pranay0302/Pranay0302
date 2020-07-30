@@ -7,9 +7,6 @@
 
 <summary> I'm a student majoring in information science and engineering and I'm a passionate learner 😁 </summary>
 
-- I'm currently learning the fundamentals of networking and it's protocols. 🖧
-- I'm also learning DSA 📚
-
 
 ### You guys can find me in these respective areas
 
