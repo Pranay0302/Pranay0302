@@ -1,5 +1,5 @@
 <p align = "left">
-![](https://komarev.com/ghpvc/?username=Pranay0302&color=lightgrey&style=plastic)
+<img src="https://komarev.com/ghpvc/?username=Pranay0302" alt="Pranay0302"/>
 </p> 
 
 <p align="center">
