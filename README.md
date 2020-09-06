@@ -1,3 +1,4 @@
+<p align=center>Hello, I am Pranay </p>
 
 <p align="center">
     <img src="https://github.com/Pranay0302/Pranay0302/blob/master/rsz_pa.jpg" alt="image">
