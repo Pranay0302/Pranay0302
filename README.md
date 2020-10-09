@@ -1,7 +1,7 @@
 
 #### 𝗛𝗲𝗹𝗹𝗼, 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗣𝗿𝗮𝗻𝗮𝘆. 👨‍💻
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a36jgl5e8znf9q4csh4a9rt98&cover_image=true)](https://github.com/kittinan/spotifygithub-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a36jgl5e8znf9q4csh4a9rt98&cover_image=true)](https://github.com/Pranay0302)
 
 ##### uo ǝɯ ɥɔɐǝᴚ
 
