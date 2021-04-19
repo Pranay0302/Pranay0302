@@ -2,7 +2,6 @@
 <p align="center"><b>reach me on<b></p>
 
 <p align="center">
-    <a href="https://www.reddit.com/user/elcoco_93" target="_blank"><img src="https://img.shields.io/badge/-reddit-f9c49a?style=plastic&logo=reddit&logoColor=FF5700"></a>
     <a href="https://www.instagram.com/pka_0302" target="_blank"><img src="https://img.shields.io/badge/-Instagram-fbecec?style=plastic&logo=Instagram&logoColor=f3f729b"></a>
     <a href="https://www.linkedin.com/in/pranay-andra-371ab5193" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-d9ecf2?style=plastic&logo=Linkedin&logoColor=0e76a8"></a>
     <a href="https://discordapp.com/users/701723327139545088" target="_blank"><img src="https://img.shields.io/badge/-Discord-ffffff?style=plastic&logo=Discord&logoColor=7289d9"></a> 
